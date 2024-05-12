@@ -2,7 +2,7 @@
 # INFO1113
 
 ## java Tanks
-##INFO1113 / COMP9003 Assignment
+## INFO1113 / COMP9003 Assignment
 
 
 ## CS编程辅导  
